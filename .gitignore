@@ -1,0 +1,13 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pkl
+
+# React
+sentiment-ui/node_modules/
+sentiment-ui/dist/
+
+# Mac
+.DS_Store
